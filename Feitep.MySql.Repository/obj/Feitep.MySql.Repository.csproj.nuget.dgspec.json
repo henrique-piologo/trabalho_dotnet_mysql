@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {}
+    "C:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {}
   },
   "projects": {
     "C:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "c:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {
+    "C:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
         "projectName": "Feitep.MySql.Repository",
-        "projectPath": "c:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+        "projectPath": "C:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
+        "outputPath": "C:\\Users\\henri\\OneDrive\\Documentos\\Trabalho\\trabalho_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
